@@ -1,0 +1,10 @@
+Box:
+Height, inside (with board) 58mm
+
+Pieces:
+Goldblock, 11mm
+Player, 8.5mm
+White Marker, 13mm
+Tile, Large side 38.5mm (Corner to Corner), Side to Side 34mm
+TileStack Grennery 119.5mm
+Tilestack special, 20mm 
