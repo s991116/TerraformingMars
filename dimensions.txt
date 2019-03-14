@@ -5,6 +5,7 @@ Pieces:
 Goldblock, 11mm
 Player, 8.5mm
 White Marker, 13mm
+Tile, length of one side 20.0mm
 Tile, Large side 38.5mm (Corner to Corner), Side to Side 34mm
 TileStack Grennery 119.5mm
 Tilestack special, 20mm 
