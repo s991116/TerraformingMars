@@ -1,11 +1,21 @@
 Box:
-Height, inside (with board) 58mm
+Height, inside (without board) 70mm
+Height, inside (with board) 59mm
+Width, inside 290mm x 290mm
 
+Board: 
+Height 8mm
+Width, 220mm x 262mm
+   
 Pieces:
 Goldblock, 11mm
+Silver, 8.5mm
+Bronze, 7.5mm
 Player, 8.5mm
 White Marker, 13mm
 Tile, length of one side 20.0mm
 Tile, Large side 38.5mm (Corner to Corner), Side to Side 34mm
 TileStack Grennery 119.5mm
 Tilestack special, 20mm 
+
+Card 63mm x 89mm
